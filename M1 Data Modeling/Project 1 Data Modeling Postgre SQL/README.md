@@ -4,7 +4,7 @@ Sparkify startup wants to analyze the data they have been collecting on songs an
 
 # How to Run python scripts -
 
-To create database tables run the command in python terminal - python create_tables.py
+To create database tables run the command in python terminal - python sql_queries.py
 
 To create ETL pipeline and load the data into tables run - python etl.py 
 
