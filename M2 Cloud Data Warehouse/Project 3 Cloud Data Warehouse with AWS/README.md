@@ -1,7 +1,3 @@
-# Project Summary - Boston Marathon Analysis  
-
-Boston and Moscow marathons are famous all over the world. This project was a part of course Data Analysis with Python held in term Fall 2019. We selected only two marathon dataset from 2017 and 2018 instead for going for multiple marathons. This dataset contains participants personal details with the results of marathon in each interval of 5k till 40k. (full marathon). 
-
 # Project Description
  
  We are going to implement the AWS and Data warehouse concepts to build an ETL pipeline by hosting the database on redshift. Data from S3 will be loaded into staging tables created on redshift. After which run the SQL statements to create  
@@ -17,9 +13,9 @@ Their are two sets of Datasets to complete this project Boston and Moscow Marath
 **Below example of what a single song file, TRAABJL12903CDCF1A.json, looks like.**
 
 
-{Bib	Name: 	Age	M/F:	City:	State	Country	Citizen		5K	10K	15K	20K	Half	25K	30K	35K	40K	Pace	Proj Time	Official Time	Overall	Gender	Division}
+{Bib	,Name,	Age,	M/F,	City,	State,	Country,	Citizen,		5K,	10K,	15K,	20K,	Half,	25K,	30K,	35K,	40K,	Pace,	Proj Time,	Official Time,	Overall,	Gender,	Division}
 
-{11	Kirui, Geoffrey	24	M	Keringet		KEN			0:15:25	0:30:28	0:45:44	1:01:15	1:04:35	1:16:59	1:33:01	1:48:19	2:02:53	0:04:57	-	2:09:37	1	1	1}
+{11,	Kirui, Geoffrey,	24,	M,	Keringet,		KEN,			0:15:25,	0:30:28,	0:45:44,	1:01:15,	1:04:35,	1:16:59,	1:33:01,	1:48:19,	2:02:53,	0:04:57,	-	2:09:37,	1,	1,	1}
      
      - **Moscow Marathon Full Results 2018** 
      
