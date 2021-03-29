@@ -1,3 +1,40 @@
+# Project Summary - Boston Marathon Analysis  
+
+Boston and Moscow marathons are famous all over the world. This project was a part of course Data Analysis with Python held in term Fall 2019. We selected only two marathon dataset from 2017 and 2018 instead for going for multiple marathons. This dataset contains participants personal details with the results of marathon in each interval of 5k till 40k. (full marathon). 
+
+# Project Description
+ 
+ We are going to implement the AWS and Data warehouse concepts to build an ETL pipeline by hosting the database on redshift. Data from S3 will be loaded into staging tables created on redshift. After which run the SQL statements to create  
+ analytics tables such as Fact and dimension tables from the data stores in staging tables. Analytics tables then used for analysis on user activity.
+  
+
+# Project Datasets
+
+Their are two sets of Datasets to complete this project Boston and Moscow Marathon.
+-  Below are the listed dataset:
+     - **Boston Marathon Results 2017** 
+
+**Below example of what a single song file, TRAABJL12903CDCF1A.json, looks like.**
+
+
+{Bib	Name: 	Age	M/F:	City:	State	Country	Citizen		5K	10K	15K	20K	Half	25K	30K	35K	40K	Pace	Proj Time	Official Time	Overall	Gender	Division}
+
+{11	Kirui, Geoffrey	24	M	Keringet		KEN			0:15:25	0:30:28	0:45:44	1:01:15	1:04:35	1:16:59	1:33:01	1:48:19	2:02:53	0:04:57	-	2:09:37	1	1	1}
+     
+     - **Moscow Marathon Full Results 2018** 
+     
+**Below example of what a single song file, TRAABJL12903CDCF1A.json, looks like.**
+
+{"num_songs": 1, "artist_id": "ARJIE2Y1187B994AB7", "artist_latitude": null, "artist_longitude": null, "artist_location": "", "artist_name": "Line Renaud", "song_id": "SOUPIRU12A6D4FA1E1", "title": "Der Kleine Dompfaff", "duration": 152.92036, "year": 0}
+     
+     
+     - **Moscow Marathon Split Results 2018** 
+
+**Below example of what a single song file, TRAABJL12903CDCF1A.json, looks like.**
+
+{"num_songs": 1, "artist_id": "ARJIE2Y1187B994AB7", "artist_latitude": null, "artist_longitude": null, "artist_location": "", "artist_name": "Line Renaud", "song_id": "SOUPIRU12A6D4FA1E1", "title": "Der Kleine Dompfaff", "duration": 152.92036, "year": 0}
+  
+
 # Project Summary - Data Warehouse 
 
 A music streaming company Sparkify has grown their user and songs database and wants to move the data and involved processes to the cloud.The company data resides in S3 having directory of JSON log files of the user activity on the app and directory of JSON metadata of songs in the app.
