@@ -7,8 +7,8 @@
 # Project Datasets
 
 Their are two sets of Datasets to complete this project Boston and Moscow Marathon.
--  Below are the listed dataset:
-     - **Boston Marathon Results 2017** 
+
+## Boston Marathon Results 2017
 
 **Below example of what a single song file, TRAABJL12903CDCF1A.json, looks like.**
 
