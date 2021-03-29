@@ -10,8 +10,8 @@
 
 # Project Datasets
 
-Their are two sets of Datasets to complete this project Songs and User logs.
-
+Their are two sets of Datasets to complete this project Boston and Moscow Marathon.
+-  Below are the listed dataset:
      - **Boston Marathon Results 2017** 
      
      
@@ -20,7 +20,7 @@ Their are two sets of Datasets to complete this project Songs and User logs.
      
      - **Moscow Marathon Split Results 2018** `s3://udacity-dend/log_json_path.json`
      
-Their are two sets of Datasets to complete this project Boston and Moscow Marathon.
+
     
 # Project Summary - Data Warehouse 
 
