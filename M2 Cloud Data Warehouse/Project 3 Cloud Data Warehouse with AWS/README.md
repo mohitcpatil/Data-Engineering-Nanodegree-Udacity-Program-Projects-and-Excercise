@@ -8,7 +8,7 @@
 
 Their are two sets of Datasets to complete this project Boston and Moscow Marathon.
 
-### Boston Marathon Results 2017
+### 1.Boston Marathon Results 2017
 
 **Sample file marathon_results_2017.csv**
 
@@ -17,20 +17,23 @@ Columns : {Bib	,Name,	Age,	M/F,	City,	State,	Country,	Citizen,		5K,	10K,	15K,	20
 
 Data :    {11,	Kirui, Geoffrey,	24,	M,	Keringet,		KEN,			0:15:25,	0:30:28,	0:45:44,	1:01:15,	1:04:35,	1:16:59,	1:33:01,	1:48:19,	2:02:53,	0:04:57,	-	2:09:37,	1,	1,	1}
      
-     - **Moscow Marathon Full Results 2018** 
-     
-**Below example of what a single song file, TRAABJL12903CDCF1A.json, looks like.**
+### 2.Moscow Marathon Full Results 2018
 
-{"num_songs": 1, "artist_id": "ARJIE2Y1187B994AB7", "artist_latitude": null, "artist_longitude": null, "artist_location": "", "artist_name": "Line Renaud", "song_id": "SOUPIRU12A6D4FA1E1", "title": "Der Kleine Dompfaff", "duration": 152.92036, "year": 0}
-     
-     
-     - **Moscow Marathon Split Results 2018** 
+*Sample file 1_full_results_mm_2018.csv*
 
-**Below example of what a single song file, TRAABJL12903CDCF1A.json, looks like.**
 
-{"num_songs": 1, "artist_id": "ARJIE2Y1187B994AB7", "artist_latitude": null, "artist_longitude": null, "artist_location": "", "artist_name": "Line Renaud", "song_id": "SOUPIRU12A6D4FA1E1", "title": "Der Kleine Dompfaff", "duration": 152.92036, "year": 0}
-  
+Columns : {Bib	,Name,	Age,	M/F,	City,	State,	Country,	Citizen,		5K,	10K,	15K,	20K,	Half,	25K,	30K,	35K,	40K,	Pace,	Proj Time,	Official Time,	Overall,	Gender,	Division}
 
+Data :    {11,	Kirui, Geoffrey,	24,	M,	Keringet,		KEN,			0:15:25,	0:30:28,	0:45:44,	1:01:15,	1:04:35,	1:16:59,	1:33:01,	1:48:19,	2:02:53,	0:04:57,	-	2:09:37,	1,	1,	1}
+
+### 3.Moscow Marathon Split Results 2018
+
+**Sample file marathon_results_2017.csv**
+
+
+Columns : {Bib	,Name,	Age,	M/F,	City,	State,	Country,	Citizen,		5K,	10K,	15K,	20K,	Half,	25K,	30K,	35K,	40K,	Pace,	Proj Time,	Official Time,	Overall,	Gender,	Division}
+
+Data :    {11,	Kirui, Geoffrey,	24,	M,	Keringet,		KEN,			0:15:25,	0:30:28,	0:45:44,	1:01:15,	1:04:35,	1:16:59,	1:33:01,	1:48:19,	2:02:53,	0:04:57,	-	2:09:37,	1,	1,	1}
 # Project Summary - Data Warehouse 
 
 A music streaming company Sparkify has grown their user and songs database and wants to move the data and involved processes to the cloud.The company data resides in S3 having directory of JSON log files of the user activity on the app and directory of JSON metadata of songs in the app.
