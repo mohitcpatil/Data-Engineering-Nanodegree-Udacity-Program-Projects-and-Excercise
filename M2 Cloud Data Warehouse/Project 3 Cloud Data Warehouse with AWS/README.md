@@ -10,7 +10,7 @@ Their are two sets of Datasets to complete this project Boston and Moscow Marath
 
 ### 1.Boston Marathon Results 2017
 
-**Sample file marathon_results_2017.csv**
+- **Below sample file marathon_results_2017.csv**
 
 
 Columns : {Bib	,Name,	Age,	M/F,	City,	State,	Country,	Citizen,		5K,	10K,	15K,	20K,	Half,	25K,	30K,	35K,	40K,	Pace,	Proj Time,	Official Time,	Overall,	Gender,	Division}
