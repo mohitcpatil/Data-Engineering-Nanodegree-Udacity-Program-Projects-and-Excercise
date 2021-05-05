@@ -1,18 +1,13 @@
-# Project Description
+## Project Description
  
  We are going to implement the AWS and Data warehouse concepts to build an ETL pipeline by hosting the database on redshift. Data from S3 will be loaded into staging tables created on redshift. After which run the SQL statements to create  
  analytics tables such as Fact and dimension tables from the data stores in staging tables. Analytics tables then used for analysis on user activity.
   
-# Project Summary - Data Warehouse 
+## Project Summary - Data Warehouse 
 
 A music streaming company Sparkify has grown their user and songs database and wants to move the data and involved processes to the cloud.The company data resides in S3 having directory of JSON log files of the user activity on the app and directory of JSON metadata of songs in the app.
 
 The task is to build an ETL pipeline that extracts their data from S3, stages them in Redshift, and transforms data into a set of dimensional tables for their analytics team to run the analysis queries i.e. what songs users are listening to
-
-# Project Description
- 
- We are going to implement the AWS and Data warehouse concepts to build an ETL pipeline by hosting the database on redshift. Data from S3 will be loaded into staging tables created on redshift. After which run the SQL statements to create  
- analytics tables such as Fact and dimension tables from the data stores in staging tables. Analytics tables then used for analysis on user activity.
 
 # Project Datasets
 
@@ -129,3 +124,10 @@ Note : I assume you have already created the Redshift_security_group
     - Delete your redshift cluster when finished.
 
 
+## Reviews by Mentor -
+
+<img width="1048" alt="Screen Shot 2021-05-05 at 2 59 42 PM" src="https://user-images.githubusercontent.com/900824/117216420-94f90b80-adb4-11eb-9dd4-520e291c5ed8.png">
+
+<img width="1031" alt="Screen Shot 2021-05-05 at 2 59 49 PM" src="https://user-images.githubusercontent.com/900824/117216427-97f3fc00-adb4-11eb-9b05-cc203e7cd2e3.png">
+
+<img width="1054" alt="Screen Shot 2021-05-05 at 2 59 57 PM" src="https://user-images.githubusercontent.com/900824/117216431-9aeeec80-adb4-11eb-9f82-90a0f215f843.png">
