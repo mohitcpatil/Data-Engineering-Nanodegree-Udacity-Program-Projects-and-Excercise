@@ -103,7 +103,7 @@ Note : I assume you have already created the Redshift_security_group
 
 * **dwh.cfg** - This configuration file contains all the keys for database,IAM roles and clusters.=
 
-# Steps Followed to create project 
+## Steps Followed to create project 
 
 - **Create Table Schemas**
 
