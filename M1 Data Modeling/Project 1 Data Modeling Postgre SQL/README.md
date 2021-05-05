@@ -42,11 +42,8 @@ To create ETL pipeline and load the data into tables run - python etl.py
 
 ## Reviews by Mentor -
 
-<img width="1031" alt="Screen Shot 2021-05-05 at 2 59 49 PM" src="https://user-images.githubusercontent.com/900824/117215583-44cd7980-adb3-11eb-8045-4d374b1b9eec.png">
+<img width="1055" alt="Screen Shot 2021-05-05 at 2 58 04 PM" src="https://user-images.githubusercontent.com/900824/117216137-25831c00-adb4-11eb-9905-4fc03f17c1c7.png">
 
-<img width="1054" alt="Screen Shot 2021-05-05 at 2 59 57 PM" src="https://user-images.githubusercontent.com/900824/117215767-8f4ef600-adb3-11eb-9664-bf149181bc7e.png">
+<img width="1090" alt="Screen Shot 2021-05-05 at 2 57 49 PM" src="https://user-images.githubusercontent.com/900824/117216131-23b95880-adb4-11eb-8ed8-d0b407837507.png">
 
-<img width="1048" alt="Screen Shot 2021-05-05 at 2 59 42 PM" src="https://user-images.githubusercontent.com/900824/117215812-a1c92f80-adb3-11eb-956e-70dee9768ddc.png">
-
-<img width="1059" alt="Screen Shot 2021-05-05 at 2 58 58 PM" src="https://user-images.githubusercontent.com/900824/117215834-ac83c480-adb3-11eb-83b6-c26c7235ac82.png">
-
+<img width="1070" alt="Screen Shot 2021-05-05 at 2 57 58 PM" src="https://user-images.githubusercontent.com/900824/117216124-21ef9500-adb4-11eb-80fe-37c737902700.png">
