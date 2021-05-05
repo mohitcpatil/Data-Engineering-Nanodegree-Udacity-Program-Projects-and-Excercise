@@ -44,3 +44,9 @@ To create ETL pipeline and load the data into tables run - python etl.py
 
 <img width="1031" alt="Screen Shot 2021-05-05 at 2 59 49 PM" src="https://user-images.githubusercontent.com/900824/117215583-44cd7980-adb3-11eb-8045-4d374b1b9eec.png">
 
+<img width="1054" alt="Screen Shot 2021-05-05 at 2 59 57 PM" src="https://user-images.githubusercontent.com/900824/117215767-8f4ef600-adb3-11eb-9664-bf149181bc7e.png">
+
+<img width="1048" alt="Screen Shot 2021-05-05 at 2 59 42 PM" src="https://user-images.githubusercontent.com/900824/117215812-a1c92f80-adb3-11eb-956e-70dee9768ddc.png">
+
+<img width="1059" alt="Screen Shot 2021-05-05 at 2 58 58 PM" src="https://user-images.githubusercontent.com/900824/117215834-ac83c480-adb3-11eb-83b6-c26c7235ac82.png">
+
