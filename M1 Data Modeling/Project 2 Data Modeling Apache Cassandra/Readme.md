@@ -30,3 +30,11 @@ s
 - Implement the logic in section Part I of the notebook template to iterate through each event file in event_data to process and create a new CSV file in Python
 - Make necessary edits to Part II of the notebook template to include Apache Cassandra CREATE and INSERT statements to load processed records into relevant tables in your data model
 - Test by running SELECT statements after running the queries on your database
+
+## Reviews by Mentor -
+
+<img width="1076" alt="Screen Shot 2021-05-05 at 2 58 23 PM" src="https://user-images.githubusercontent.com/900824/117216233-4a778f00-adb4-11eb-9393-9a94944b2432.png">
+
+<img width="1040" alt="Screen Shot 2021-05-05 at 2 58 45 PM" src="https://user-images.githubusercontent.com/900824/117216244-4e0b1600-adb4-11eb-88e6-89c83c28e4cc.png">
+
+<img width="1059" alt="Screen Shot 2021-05-05 at 2 58 58 PM" src="https://user-images.githubusercontent.com/900824/117216256-51060680-adb4-11eb-9997-2becb5acb2d9.png">
