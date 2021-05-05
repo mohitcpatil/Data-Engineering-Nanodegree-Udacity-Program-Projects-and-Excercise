@@ -1,8 +1,8 @@
-# Project Summary 
+## Project Summary 
 
 Sparkify startup wants to analyze the data they have been collecting on songs and user activity. Analytics team is particularly interested in what songs users are interested in listening. Currently, they don't have an easy way to query their data, which resides in a directory of JSON logs on user activity on the app, as well as a directory with JSON metadata on the songs in their app.
 
-# How to Run python scripts -
+## How to Run python scripts -
 
 To create database tables run the command in python terminal - python sql_queries.py
 
@@ -10,7 +10,7 @@ To create ETL pipeline and load the data into tables run - python etl.py
 
 
 
-# Schema for Song Play Analysis -  
+## Schema for Song Play Analysis -  
 
 * **Fact Table** -
 
@@ -28,7 +28,7 @@ To create ETL pipeline and load the data into tables run - python etl.py
       time timestamps of records in songplays broken down into specific units
 
 
-# Projects files -
+## Projects files -
 
 * **sql_queries.py** - contains sql queries for dropping and creating fact and dimension tables. Also, contains insertion query template.
 
@@ -40,7 +40,7 @@ To create ETL pipeline and load the data into tables run - python etl.py
 
 * **test.ipynb** - a notebook to connect to postgres db and validate the data loaded.
 
-# Projects Reviews by Mentor -
+## Reviews by Mentor -
 
 <img width="1031" alt="Screen Shot 2021-05-05 at 2 59 49 PM" src="https://user-images.githubusercontent.com/900824/117215583-44cd7980-adb3-11eb-8045-4d374b1b9eec.png">
 
