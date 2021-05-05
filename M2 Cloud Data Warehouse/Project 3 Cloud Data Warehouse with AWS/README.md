@@ -9,7 +9,7 @@ A music streaming company Sparkify has grown their user and songs database and w
 
 The task is to build an ETL pipeline that extracts their data from S3, stages them in Redshift, and transforms data into a set of dimensional tables for their analytics team to run the analysis queries i.e. what songs users are listening to
 
-# Project Datasets
+## Project Datasets
 
 Their are two sets of Datasets to complete this project Songs and User logs.
 -  Here are the S3 links for each:
@@ -36,7 +36,7 @@ log_data/2018/11/2018-11-12-events.json
 log_data/2018/11/2018-11-13-events.json
 
 
-# Database Schema Design 
+## Database Schema Design 
 
 Creating Staging, Fact and Dimensions tables 
 
@@ -63,7 +63,7 @@ Creating Staging, Fact and Dimensions tables
   -   **time** - timestamps of records in songplays broken down into specific units
         - start_time, hour, day, week, month, year, weekday
 
-# How to Run Project 
+## Run the Project 
 
 ###### 1. Configure the dwh.config file
 - Add the AWS access and secret keys in dwh.config file 
@@ -91,7 +91,7 @@ Note : I assume you have already created the Redshift_security_group
 
 ###### 5. Run the queries written in `Create_redshift_cluster.ipynb` file to check the data has been loaded into fact and dimensional tables 
 
-# Description of each file
+## File description 
 
 * **sql_queries.py** - contains sql queries for dropping and creating fact and dimension and staging tables. Also, contains insertion query template. 
 
