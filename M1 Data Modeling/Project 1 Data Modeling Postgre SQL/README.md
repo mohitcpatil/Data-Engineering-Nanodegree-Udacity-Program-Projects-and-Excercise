@@ -40,5 +40,7 @@ To create ETL pipeline and load the data into tables run - python etl.py
 
 * **test.ipynb** - a notebook to connect to postgres db and validate the data loaded.
 
+# Projects Reviews by Mentor -
 
+<img width="1031" alt="Screen Shot 2021-05-05 at 2 59 49 PM" src="https://user-images.githubusercontent.com/900824/117215583-44cd7980-adb3-11eb-8045-4d374b1b9eec.png">
 
