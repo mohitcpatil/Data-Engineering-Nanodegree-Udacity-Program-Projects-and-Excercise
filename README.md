@@ -1,4 +1,4 @@
-## Data-Engineering-Nanodegree-Udacity-Program-Projects-and-Exercise
+## Data-Engineering-Nanodegree-Udacity-Program-Projects-and-Exercises
 
 ### Nanodegree Modules:
 
